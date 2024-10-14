@@ -1,0 +1,19 @@
+Macenth's Roadmap to Java Programming: From Loser to Genius
+
+1. Overview of Java
+2. Basics of Java
+3. Input / Output in Java
+4. Flow Control in Java
+5. Operators in Java
+6. Strings in Java
+7. Arrays in Java
+8. OOPS in Java
+9. Inheritance in Java
+10. Abstraction in Java
+11. 
+
+
+
+Create a program that allows a teacher to input grades for students in a class. The program should continue to prompt for grades
+until the teacher enters -1 to stop. After all the grades have been entered, calculate and display the average grade, the highest
+grade, the number of students who passed, (eg. scored above a certain threshold).
